@@ -1,0 +1,22 @@
+.banner{
+  height: 80vh;
+  width: auto;
+  background-size:cover;
+  background-position: center;
+  display: flex;
+  align-items: center;
+}
+.container-banner{
+  width: 500px;
+  margin:auto;
+  text-align: center;
+}
+
+.container-banner > p {
+  text-align: center;
+  color: whitesmoke;
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 100px;
+  opacity: 0.9;
+}

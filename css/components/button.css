@@ -1,0 +1,15 @@
+.btn-yours{
+  border: 2px solid;
+  border-radius: 15px;
+  padding: 16px 32px;
+  box-shadow: 20px -8px rgb(240, 120, 9);
+  color:white;
+}
+
+.btn-yours:hover{
+  box-shadow: 0px 0px rgb(240, 120, 9);
+  transition: 0.3s;
+  background-color: rgb(240, 120, 9);
+  color:white;
+  font:bolder;
+}
